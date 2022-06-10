@@ -1,0 +1,31 @@
+/* Main Settings */
+*{
+  box-sizing: border-box;
+  margin: 0 auto;
+  background-color: antiquewhite;
+}
+/* Form Settings */
+
+form, form input {
+  justify-content: center;
+  width:15rem;
+  text-align: center;
+  margin-top: 2%;
+}
+
+/* Heading and Info Displayed */
+h1, #dog-info li,
+#dog-info img {
+  display:flex;
+  justify-content: center;
+  list-style:none;
+}
+
+img{
+  height: 20rem;
+  width: 25rem;
+}
+
+#dog-info{
+  margin-top: 2%;
+}
