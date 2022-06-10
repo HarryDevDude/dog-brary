@@ -13,6 +13,10 @@ The once the user enters in the a dog breed Dog-brary will render:
 The name of the dog
 Bred for
 Life Span
-Height in metric values
-Weight in metric values
+Height in inch
+Weight in lbs
 Image of the dog. If no image is rendered it an alt description of the name of the dog will be in it's place.
+
+
+Next steps:
+Adding a toggle for both imperial and metric values for Height and Weight.
